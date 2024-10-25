@@ -6,23 +6,23 @@
     <!-- Cadastro -->
     <div class='cadastro'>
       <div class="input-group">
-          <label for="nome">Nome completo</label>
-          <input type="text" id="nome" required>
+        <label for="nome">Nome completo</label>
+        <input type="text" id="nome" required>
       </div>
 
       <div class="input-group">
-          <label for="email">Email</label>
-          <input type="email" id="email" required>
+        <label for="email">Email</label>
+        <input type="email" id="email" required>
       </div>
 
       <div class="input-group">
-          <label for="senha">Senha</label>
-          <input type="password" id="senha" required>
+        <label for="senha">Senha</label>
+        <input type="password" id="senha" required>
       </div>
 
       <div class="input-group">
-          <label for="repetir-senha">Repetir senha</label>
-          <input type="password" id="repetir-senha" required>
+        <label for="repetir-senha">Repetir senha</label>
+        <input type="password" id="repetir-senha" required>
       </div>
     </div>
   </div>
